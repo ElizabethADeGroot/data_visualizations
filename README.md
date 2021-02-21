@@ -18,6 +18,8 @@ This project is built in Jupyter using Python, Pandas, NumPy, SkLearn, Matplotli
 ## Content
 
 - heart_failure
+- GlobalTemperatures
+- VolcanoEvents
 
 ---
 
